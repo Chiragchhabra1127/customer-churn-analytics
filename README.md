@@ -66,35 +66,7 @@ AI-powered analysis of **94,500+ customers** and **3,500+ exit interviews** to i
 - `METHODOLOGY.md` - Analysis approach
 - `DATA_DICTIONARY.md` - Field definitions
 - `UPLOAD_INSTRUCTIONS.md` - GitHub setup guide
-
----
-
-├── 1_DATA_CLEANING/
-│   ├── Task_1_Data_Cleaning.docx
-│   ├── customers_cleaned.csv
-│   ├── interviews_cleaned.csv
-│   └── merged_churn_data.csv
-│
-├── 2_CLASSIFICATION_MOOD/
-│   ├── Task_2_Exit_Reason_Classification.xlsx
-│   └── Task_3_Mood_Analysis.xlsx
-│
-├── 3_EDA_ANALYSIS/
-│   ├── Churn_Analysis_Summary.xlsx
-│   └── churn_by_*.csv
-│
-├── 4_POWERBI_DASHBOARD/
-│   ├── Task_5_PowerBI_Dashboard.xlsx
-│   └── *.csv (dashboard data)
-│
-├── 5_BUSINESS_STORYTELLING/
-│   ├── Churn_Analytics_Presentation.pptx
-│   └── Churn_Analytics_Business_Report.docx
-│
-└── CODE/
-    └── project1_complete_analysis.py
-```
-
+- 
 ---
 
 ## ✅ Project Completion
